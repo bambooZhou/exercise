@@ -1,0 +1,48 @@
+1
+10
+ABCDEFGHIJ
+15
+A D
+A B
+B F
+B C
+C E
+C D
+C A
+D E
+F C
+G H
+G F
+H J
+H F
+I H
+J I
+10
+ABCDEFGHIJ
+26
+A D 
+A C 
+B F 
+B C 
+C F 
+C E 
+C B 
+C A 
+D E 
+D A 
+E D 
+E C 
+F H 
+F G 
+F C 
+F B 
+G H 
+G F 
+H J 
+H I 
+H G 
+H F 
+I J 
+I H 
+J I 
+J H 
